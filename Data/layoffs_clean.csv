@@ -1113,7 +1113,7 @@ M1,Chicago,Finance,38.0,0.1,2022-07-19,Series E,United States,323.0
 SellerX,Berlin,Retail,28.0,0.1,2022-07-19,Unknown,Germany,766.0
 Capsule,New York City,Healthcare,100.0,0.13,2022-07-19,Series D,United States,570.0
 PACT Pharma,SF Bay Area,Healthcare,94.0,0.1,2022-07-18,Series C,United States,200.0
-Gemini,New York City,CryptoCurrency,68.0,0.07,2022-07-18,Unknown,United States,423.0
+Gemini,New York City,Crypto,68.0,0.07,2022-07-18,Unknown,United States,423.0
 Lusha,New York City,Marketing,30.0,0.1,2022-07-18,Series B,United States,245.0
 Elemy,SF Bay Area,Healthcare,100.0,0.1,2022-07-18,Series B,United States,323.0
 Freshly,New York City,Food,100.0,0.25,2022-07-18,Acquired,United States,107.0
@@ -1126,7 +1126,7 @@ Aspire,SF Bay Area,Marketing,23.0,0.1,2022-07-15,Series A,United States,27.0
 StyleSeat,SF Bay Area,Consumer,100.0,0.17,2022-07-15,Series C,United States,40.0
 Zego,London,Finance,85.0,0.17,2022-07-14,Series C,United Kingdom,202.0
 The Mom Project,Chicago,HR,54.0,0.15,2022-07-14,Series C,United States,115.0
-Unstoppable Domains,SF Bay Area,Crypto Currency,42.0,0.25,2022-07-14,Series B,United States,7.0
+Unstoppable Domains,SF Bay Area,Crypto,42.0,0.25,2022-07-14,Series B,United States,7.0
 Kiavi,SF Bay Area,Real Estate,39.0,0.07,2022-07-14,Series E,United States,240.0
 Alto Pharmacy,SF Bay Area,Healthcare,100.0,0.1,2022-07-14,Series E,United States,560.0
 Cosuno,Berlin,Construction,100.0,0.1,2022-07-14,Series B,Germany,45.0
