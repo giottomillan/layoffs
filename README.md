@@ -3,6 +3,8 @@
 ## Project Overview
 This project involves an in-depth analysis of a dataset on layoffs. The primary goal is to perform comprehensive data cleaning, followed by data visualization and exploratory data analysis (EDA). Finally, the project aims to forecast trends and explore temporal analysis of layoffs across different industries.
 
+![Dashboard](image.png)
+
 ## Table of Contents
 - [Data Analysis Project: Layoffs Dataset](#data-analysis-project-layoffs-dataset)
   - [Project Overview](#project-overview)
