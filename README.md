@@ -5,6 +5,10 @@ This project involves an in-depth analysis of a dataset on layoffs. The primary 
 
 ![Dashboard](image.png)
 
+![forecast_laid_off](image-1.png)
+
+![forecast_laid_off_trend](image-2.png)
+
 ## Table of Contents
 - [Data Analysis Project: Layoffs Dataset](#data-analysis-project-layoffs-dataset)
   - [Project Overview](#project-overview)
